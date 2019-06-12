@@ -12,4 +12,4 @@ ENV SPRING_OUTPUT_ANSI_ENABLED=ALWAYS \
 #ENTRYPOINT ["./entrypoint.sh"]
 ENTRYPOINT  ["java","-jar","/app.jar"]
 
-EXPOSE 1111
+EXPOSE 2222
